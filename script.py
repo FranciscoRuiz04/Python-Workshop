@@ -1,3 +1,18 @@
+# Created by Ruiz Gomez Ulises Francisco, Geomatic Engineering Bachelor Degree
+# student from Universidad de Guanajuato.
+# The present script has been created as support material for a Python workshop
+# imparted for the university community of Universidad de Guanajuato. Any reproduction of the same
+# shall be endorsed and with the approval of the Universidad de Guanajuato and the author of the
+# present script himself.
+
+
+
+
+
+
+
+
+
 ###############################################################################
 ################################   Baby steps  ################################
 

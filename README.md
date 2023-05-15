@@ -3,6 +3,7 @@ Be welcome to the first Python workshop imparted at Universidad de Guanajuato by
 At the finish of the workshop I hope to have incresead your curiosity about the application wide field of the programming into the Geosciences and give you the needed basis to implement a powerful tool along your labor life as a professional of the matter.  
   
 # Recommendations  
+Arrive on time. The designated time is short so we should not waste time.
 Take your laptop with both code interpreter and Python **ALREADY INSTALLED AND READY TO CODING** to the classroom as well as the needed files to follow the explanation along the workshop.  
 **_script.py_** file has the practice exercises and **SMN_1151.txt** file has the complementary data to carry out workshop. I recommend you to download both files before the start of the same.  
   

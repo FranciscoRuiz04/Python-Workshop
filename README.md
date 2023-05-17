@@ -7,7 +7,7 @@ At the finish of the workshop I hope to have incresead your curiosity about the 
   
 - [x] Take your laptop with both code interpreter and Python **ALREADY INSTALLED AND READY TO CODING** to the classroom as well as the needed files to follow the explanation along the workshop.  
 **_script.py_** file has the practice exercises and **SMN_1151.txt** file has the complementary data to carry out workshop. I recommend you to download both files before the start of the sesion.  
-To download just click on the file and click on menu _More file actions_ [...] at top right side and then _Download_ option.
+To download just click on **_Code_** green button at the top and then _Download ZIP_ option.
 
   
 Along the workshop we going to be using **_Visual Studio Code_** as the code interpreter by default, though, you are free to use any other of your preference. If you do not have one yet in **_installation.pdf_** file you will find the instructions to install and setup VS CODE for Python.  
